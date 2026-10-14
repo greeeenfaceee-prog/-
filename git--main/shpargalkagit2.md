@@ -190,7 +190,6 @@ git push
 
 * Делаем fork (ответвление) репозитория
 
-<img width="1806" height="733" alt="Снимок экрана 2026-10-08 181802" src="https://github.com/user-attachments/assets/4ffa6fc9-1588-43dd-89f4-1e29b0c2474b" />
 
 
 * Делаем git clone СВОЕЙ версии репозитория
@@ -208,8 +207,4 @@ git push
 
 * На сайте GitHub нажимаем кнопку pull request
 
-<img width="1801" height="954" alt="Снимок экрана 2026-10-08 182641" src="https://github.com/user-attachments/assets/a21282a8-379e-447b-b70e-96dc04c23f03" />
 
-<img width="1811" height="857" alt="Снимок экрана 2026-10-08 182741" src="https://github.com/user-attachments/assets/17cdfa22-233d-47de-af9b-d9de9e67b94b" />
-
-<img width="899" height="302" alt="Снимок экрана 2026-10-08 182835" src="https://github.com/user-attachments/assets/fd68252e-962c-437c-bb35-b167a2943e63" />
